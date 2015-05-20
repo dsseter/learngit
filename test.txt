@@ -1,11 +1,8 @@
 
-<<<<<<< HEAD
 test1 
 test for multibranch problem
 master test
-=======
 test for multibranch problem
 test file 
 dsseter-feature-1
->>>>>>> dsseter-feature-1
 test git diff
