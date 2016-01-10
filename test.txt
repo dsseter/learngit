@@ -16,4 +16,6 @@ test file
 dsseter-feature-1
 test git diff
 asdf
+asdf:wq
+
 gasdasd
