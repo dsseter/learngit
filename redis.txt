@@ -10,4 +10,3 @@ rsdf
 asf
 asfa
 rtww
-redis
