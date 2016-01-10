@@ -18,4 +18,3 @@ test git diff
 asdf
 asdf:wq
 
-gasdasd
