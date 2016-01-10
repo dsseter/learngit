@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 asdfaia 
 aisdf asgf asf 
 aastesasdf t1 
@@ -10,7 +9,6 @@ asgf asf
 aastest1 
 saf
 test
->>>>>>> 16310e452eafcef386b3eda2b6db8c5e71969b0b
 test for multibranch problem
 master test
 test for multibranch problem
